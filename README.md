@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/lucas-matos-b02754115/"><i>Lucas Matos</i></a> 😃️</h1>
-  <p align="center">Análise e Desenvolvimento de Sistemas <a href="https://www1.unicap.br/"><i>Uninassau</i></a> 
+  <p align="center">Análise e Desenvolvimento de Sistemas Uninassau</p> 
 </div>
 
 
