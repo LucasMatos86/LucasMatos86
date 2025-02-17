@@ -1,42 +1,52 @@
-<div>
-  <h1 align="center">Oi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/lucas-matos-b02754115/"><i>Lucas Matos</i></a> 😃️</h1>
-  <p align="center">Análise e Desenvolvimento de Sistemas Uninassau</p> 
-</div>
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+  Olá, mundo! Eu sou o Lucas 👋
+</h1>
 
+🎓 Cursando **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, especialmente pelo desenvolvimento backend e segurança da informação.
 
-### Análise GitHub
-<div align="center">
+---
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMatos86&show_icons=true&theme=radical)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMatos86&theme=dracula&layout=compact)](https://github.com/LucasMatos86/github-readme-stats)
-    
-  
-</div>
+## 🚀 Habilidades Técnicas
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div><br>
-<div align="center">
- <!-- <a href="https://www.instagram.com/l.ucas.matos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.linkedin.com/in/lucas-matos-6462742ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:lucasmats86@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+### 🖥️ Desenvolvimento Web
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+</p>
 
+### ⚙️ Desenvolvimento Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+</p>
 
- <div align="center">
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
-  ![Snake animation](https://github.com/LucasMatos86/LucasMatos86/blob/output/github-contribution-grid-snake.svg)
+---
 
-</div>
+## 📬 Contato
+<p>
+  <a href="https://www.linkedin.com/in/lucas-matos-6462742ab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:lucasmats86@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
+---
 
-  ## GitHub Estatistícas
-
- 
-<div align="center">
-  <img height="300em" src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasMatos86&theme=dracula&hide_border=false&&layout=compact/>
-</div>
+## 📊 Estatísticas do GitHub
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucasmatos86&show_icons=true&theme=vision-friendly-dark" alt="Estatísticas do GitHub">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmatos86&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas">
+</p>
